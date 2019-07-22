@@ -10037,7 +10037,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 
-container-fluid{
+.container-fluid{
   background-color:#f9ecf2;
 }
 .marcxena{
@@ -10236,5 +10236,4 @@ margin-right: 20px;
   from {left: 60px;}
   to {left: 85px;}
 
-  }
-                 
+  }             
